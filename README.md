@@ -2,11 +2,6 @@
 
 This is the first file in this repository
 
-## Ipsum Below
+## WEbsite contents
 
-
-Sdjkkajdka 
-
-
-
-sdsadasd
+1. index
